@@ -1,0 +1,4 @@
+[submodule "proot-termux"]
+	path = proot-termux
+	url = https://github.com/termux/proot.git
+	branch = master
